@@ -109,3 +109,10 @@ p {
 .card:hover {
   background-color: #fd4c82;
 }
+
+
+.left-img img{
+  width: 80%;
+  height: 80%;
+  object-fit: cover;
+}
